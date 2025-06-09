@@ -15,7 +15,7 @@ A **Java Swing GUI** desktop application for booking plane tickets, using **MySQ
 
 ## 🧰 Technologies Used
 
-- **Java** (JDK 17+ recommended)
-- **Swing** (for GUI)
-- **MySQL** (for persistent data)
-- **JDBC** (for database connectivity)
+- **Java**
+- **Swing**
+- **MySQL** 
+- **JDBC** 
